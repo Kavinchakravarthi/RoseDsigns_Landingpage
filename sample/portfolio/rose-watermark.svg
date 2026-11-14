@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 360" fill="none">
+  <g stroke="#A76570" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M151 171c-4 60-7 105-2 158" />
+    <path d="M151 264c-31-40-62-40-83-33 20 29 47 44 84 41" fill="#D9B1AE" fill-opacity=".22" />
+    <path d="M151 232c25-41 54-49 83-47-17 33-44 51-82 56" fill="#D9B1AE" fill-opacity=".22" />
+    <g fill="#D9B1AE" fill-opacity=".25">
+      <path d="M151 160c-35-20-43-56-26-82 25 14 39 40 26 82Z" />
+      <path d="M151 160c-35-20-43-56-26-82 25 14 39 40 26 82Z" transform="rotate(60 151 160)" />
+      <path d="M151 160c-35-20-43-56-26-82 25 14 39 40 26 82Z" transform="rotate(120 151 160)" />
+      <path d="M151 160c-35-20-43-56-26-82 25 14 39 40 26 82Z" transform="rotate(180 151 160)" />
+      <path d="M151 160c-35-20-43-56-26-82 25 14 39 40 26 82Z" transform="rotate(240 151 160)" />
+      <path d="M151 160c-35-20-43-56-26-82 25 14 39 40 26 82Z" transform="rotate(300 151 160)" />
+    </g>
+    <path d="M151 160c-24-11-27-33-10-47 16 11 19 29 10 47Z" fill="#D9B1AE" fill-opacity=".52" />
+    <path d="M151 160c18-23 39-17 39 0-13 12-28 12-39 0Z" fill="#D9B1AE" fill-opacity=".46" />
+    <path d="M151 160c-8-27 8-41 24-31-1 18-10 29-24 31Z" fill="#D9B1AE" fill-opacity=".48" />
+    <circle cx="151" cy="160" r="8" fill="#A76570" fill-opacity=".32" />
+  </g>
+</svg>
